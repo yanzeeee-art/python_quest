@@ -5,3 +5,8 @@ print(lists[::2])
 print(lists[::-2])
 
 
+ 
+my_tuple =tuple(lists)
+print(my_tuple)
+
+

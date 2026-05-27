@@ -13,5 +13,8 @@ print(student)
 del student ["class"]
 print(student)
 
+print(student.keys())
+
+print(student.items())
 
 
