@@ -9,3 +9,13 @@ print(mytuple[::-2])
 #to convert tuple into lists
 mylists =list(mytuple)
 print(mylists)
+#to convert string into tuple
+my_string ="hello"
+mytuple =tuple(my_string)
+print(mytuple)
+
+
+#to convert tuple into sring
+mytuple =("H" , "e", "l", "l", "o")
+my_string =''. join(mytuple)
+print (my_string)
